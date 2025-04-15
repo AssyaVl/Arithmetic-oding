@@ -1,0 +1,11 @@
+C:\Users\nasta\Desktop\6 семестр\ТК\ArithmeticСoding\ArithmeticСoding\bin\Debug\net6.0\ArithmeticСoding.deps.json
+C:\Users\nasta\Desktop\6 семестр\ТК\ArithmeticСoding\ArithmeticСoding\bin\Debug\net6.0\ArithmeticСoding.dll
+C:\Users\nasta\Desktop\6 семестр\ТК\ArithmeticСoding\ArithmeticСoding\bin\Debug\net6.0\ArithmeticСoding.pdb
+C:\Users\nasta\Desktop\6 семестр\ТК\ArithmeticСoding\ArithmeticСoding\obj\Debug\net6.0\ArithmeticСoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasta\Desktop\6 семестр\ТК\ArithmeticСoding\ArithmeticСoding\obj\Debug\net6.0\ArithmeticСoding.AssemblyInfoInputs.cache
+C:\Users\nasta\Desktop\6 семестр\ТК\ArithmeticСoding\ArithmeticСoding\obj\Debug\net6.0\ArithmeticСoding.AssemblyInfo.cs
+C:\Users\nasta\Desktop\6 семестр\ТК\ArithmeticСoding\ArithmeticСoding\obj\Debug\net6.0\ArithmeticСoding.csproj.CoreCompileInputs.cache
+C:\Users\nasta\Desktop\6 семестр\ТК\ArithmeticСoding\ArithmeticСoding\obj\Debug\net6.0\ArithmeticСoding.dll
+C:\Users\nasta\Desktop\6 семестр\ТК\ArithmeticСoding\ArithmeticСoding\obj\Debug\net6.0\refint\ArithmeticСoding.dll
+C:\Users\nasta\Desktop\6 семестр\ТК\ArithmeticСoding\ArithmeticСoding\obj\Debug\net6.0\ArithmeticСoding.pdb
+C:\Users\nasta\Desktop\6 семестр\ТК\ArithmeticСoding\ArithmeticСoding\obj\Debug\net6.0\ref\ArithmeticСoding.dll
